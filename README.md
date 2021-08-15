@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirmalkatiyar
 - 👀 I’m interested in full stack development and cyber security.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m  learning web development.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 please email to reach me nirmalkatiyarkumar@gmail.com
 
