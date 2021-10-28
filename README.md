@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nirmalkatiyar
+- 👋 Hi, I’m nirmal katiyar.An undergraduate student at IIIT Bhopal.
 - 👀 I’m interested in full stack development and cyber security.
 - 🌱 I’m  learning web development.
 - 💞️ I’m looking to collaborate on web development.
