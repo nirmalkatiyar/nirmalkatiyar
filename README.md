@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nirmal katiyar.An undergraduate student at IIIT Bhopal.
-- 👀 I’m an opensource enthusiast and a full stack developer.
-- 🌱 I’m  learning full stack  development.
+- 👀 I’m  a full stack developer and machine learning enthusiast.
+- 🌱 I would like to opensource as well.
 - 💞️ I’m looking to collaborate on web development project.
 - 📫 please email to reach me nirmalkatiyarkumar@gmail.com
 
